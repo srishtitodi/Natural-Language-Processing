@@ -3,3 +3,6 @@ In the notebook NER Classification using SVM, Perceptron and Averaged perceptron
 
 
 In Document Classification using Naive Bayes, I have used imdb dataset for sentimental analysis, i.e., to classify the revies as positive or negative. This project was built from scratch without using pre-existing libraries for modelling. I have used three kinds of feature representation for the document- binary bag of words, count bag of words and TF-IDF model. Then, I have used Naive Bayes on each of them to compare the best results. 
+
+
+In NER using CRF, BiLSTM and BiLSTM+CRF, I have created NER model using the forementioned methods on two datasets. The code for CRF is in the other notebook : NER with CRF
